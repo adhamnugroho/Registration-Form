@@ -1,0 +1,38 @@
+/* Fonts dari server google */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+
+/* Style Begin */
+
+body {
+  height: 100%;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  background: skyblue;
+}
+
+body .container {
+  width: 100%;
+  text-align: center;
+  margin-top: 7%;
+}
+
+.container h1 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.container table{
+    width: 60%;
+    margin-left: 19.5%;
+    background-color: #ffffff;
+    border: 1px solid #fff;
+    border-radius: 2.5%;
+}
+
+table tr td {
+    font-size: 23px;
+    text-align: left;
+}
