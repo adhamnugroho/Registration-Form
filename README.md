@@ -25,7 +25,7 @@ A. Layout tampilan website:
 B. Cara menggunakan
 
 1. Donwload repo ini. Anda bisa mendownload dengan format zip, atau anda juga bisa mengcloning.
-2. Buka directory yang sudah di download di code editor kesayangan anda.
+2. Buka directory 'src' yang sudah di download di code editor kesayangan anda.
 3. Jalankan server PHP anda.
 4. Buka browser kesayangan anda, lalu arahkan urlnya ke url file tambah.php.
 5. Isi form Data Siswa. Pastikan semua data terisi.
